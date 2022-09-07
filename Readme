@@ -1,0 +1,6 @@
+The project aims at building multivariate predictive models to forecast bitcoin prices.
+Below models are built
+1. XGBoost
+2. Random Forest
+3. SVR
+4. LSTM
